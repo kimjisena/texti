@@ -10,4 +10,4 @@ the future.
 
 ## References
 
-- [Snaptoken's Articles](https://viewsourcecode.org/snaptoken/kilo)
+- [Snaptoken's Article](https://viewsourcecode.org/snaptoken/kilo)
