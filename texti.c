@@ -190,7 +190,7 @@ void editorDrawRows(struct abuf *ab)
     if (y == E.screenrows / 3)
     {
       char welcome[80];
-      int welcomelen = snprintf(welcome, sizeof(welcome), "Texti editor -- version %s", TEXTI_VERSION);
+      int welcomelen = snprintf(welcome, sizeof(welcome), "Texti editor --- version %s", TEXTI_VERSION);
 
       if (welcomelen > E.screencols)
         welcomelen = E.screencols;
